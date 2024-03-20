@@ -1,7 +1,7 @@
 ---
 name: PluginReplacer
 main: kim\present\pluginreplacer\Main
-version: 0.0.1
+version: 1.0.0
 api: [ 5.0.0 ]
 author: PresentKim
 description: Replace the plugin file when the server stop!
